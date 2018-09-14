@@ -1,0 +1,174 @@
+{
+  "project_info": {
+    "project_number": "1025877347990",
+    "firebase_url": "https://skripsi-194003.firebaseio.com",
+    "project_id": "skripsi-194003",
+    "storage_bucket": "skripsi-194003.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025877347990:android:5a18990be32aa61d",
+        "android_client_info": {
+          "package_name": "net.accedegh.locationupdates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025877347990-26ein4qko90bc468a31p0cau9h1e54hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdLUlJV1Sx2jClMNwVIlssNJts032MuOU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025877347990:android:5b41810adfcd738c",
+        "android_client_info": {
+          "package_name": "id.ac.sifsuska.trackapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025877347990-7eralr7kqrfsql3r9o9g9smkio8ajmud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.ac.sifsuska.trackapp",
+            "certificate_hash": "d1a7bfe98b3c5205fad78925e601ded8b77cb1f7"
+          }
+        },
+        {
+          "client_id": "1025877347990-26ein4qko90bc468a31p0cau9h1e54hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdLUlJV1Sx2jClMNwVIlssNJts032MuOU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025877347990-26ein4qko90bc468a31p0cau9h1e54hc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025877347990:android:f744b31f6010ea5f",
+        "android_client_info": {
+          "package_name": "com.dinus.yuditarum.realtimelocationtracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025877347990-3uqf6mjc88c58nqulk1iju3g8cgejjca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dinus.yuditarum.realtimelocationtracking",
+            "certificate_hash": "d1a7bfe98b3c5205fad78925e601ded8b77cb1f7"
+          }
+        },
+        {
+          "client_id": "1025877347990-26ein4qko90bc468a31p0cau9h1e54hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdLUlJV1Sx2jClMNwVIlssNJts032MuOU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025877347990-26ein4qko90bc468a31p0cau9h1e54hc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025877347990:android:b6aec65610439d38",
+        "android_client_info": {
+          "package_name": "id.ac.sifsuska.damritrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025877347990-phhsm9c5ce4do9mnt4ss4vs956ca99jo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.ac.sifsuska.damritrack",
+            "certificate_hash": "d1a7bfe98b3c5205fad78925e601ded8b77cb1f7"
+          }
+        },
+        {
+          "client_id": "1025877347990-26ein4qko90bc468a31p0cau9h1e54hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdLUlJV1Sx2jClMNwVIlssNJts032MuOU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025877347990-26ein4qko90bc468a31p0cau9h1e54hc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
