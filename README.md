@@ -7,4 +7,4 @@ Output nya adalah, menampilkan lokasi bus DAMRI yang sedang beroperasi dan lokas
 Based on java + firebase authentication + firebase realtime + Google Maps Api for Android
 
 # Screenshot
-![screenshot](https://raw.githubusercontent.com/ibnudana02/DAMRI-Trackin-ITS/master/tracking.png)
+![screenshot](https://raw.githubusercontent.com/ibnudana02/DAMRI-Tracking-ITS/master/tracking.png)
